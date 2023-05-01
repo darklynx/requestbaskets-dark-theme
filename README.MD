@@ -18,7 +18,7 @@ Once you clone the repo, replace the following lines in every single html file:
 ```
 with...
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/socuul/requestbaskets-dark-theme@09176b7/bootstrap.min.css" integrity="sha384-37zMSuO/NCFq9o7XMDpmgGqoLfcr/RZ8YAvI9m2OX+AfMbwaV9HWto9wg9SIwHtc" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/darklynx/requestbaskets-dark-theme@1.0.0/bootstrap.min.css" integrity="sha384-QiFF09wqK5z3/usps1yc+Om75gf8byvdtluQfS0enYGx1nmji2dEbtgRDw1Tw60j" crossorigin="anonymous">
 ```
 
 ## Contributing
